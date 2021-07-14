@@ -9,7 +9,7 @@ public class Ans_3 {
         /*
         In this question, you are required to fill in the correct answer
         */
-
+        //Add something
         int x = 10;
         int y = 15;
         int a = 25; // Ans a
